@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "RuZyrsZPlsqOyD90TCjNcTsK9VyV4NyoGr5jxwY9m9+5o7w8txF56WVytjxJAyxa3DzfEzuDjSAiydH3EUb21g==",
+  "success": true,
+  "projectFilePath": "H:\\LC#\\LRCediter\\LRCediter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xiaoz\\.nuget\\packages\\jieba.net\\0.42.2\\jieba.net.0.42.2.nupkg.sha512",
+    "C:\\Users\\xiaoz\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\xiaoz\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\xiaoz\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\xiaoz\\.nuget\\packages\\openccnet\\1.0.2\\openccnet.1.0.2.nupkg.sha512",
+    "C:\\Users\\xiaoz\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
+    "C:\\Users\\xiaoz\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\xiaoz\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\xiaoz\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "C:\\Users\\xiaoz\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\xiaoz\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\xiaoz\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\xiaoz\\.nuget\\packages\\taglibsharp\\2.3.0\\taglibsharp.2.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

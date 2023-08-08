@@ -1,1 +1,1 @@
-# LRC Editor
+# Lyrics Formatter
